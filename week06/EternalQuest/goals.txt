@@ -1,0 +1,4 @@
+70
+SimpleGoal,Talk in meeting,Talk every week in meeting,20,True
+EternalGoal,read the scriptures,read the scriptures every day,50
+ChecklistGoal,visit my grandmther,visit my grand mother every three days,100,34,3,0
