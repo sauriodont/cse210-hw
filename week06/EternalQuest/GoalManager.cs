@@ -20,7 +20,7 @@ public class GoalManager
             Console.WriteLine("4. Load goals");
             Console.WriteLine("5. Record event");
             Console.WriteLine("6. Quit");
-            Console.Write("Select an option: ");
+            Console.Write("Select a Choice: ");
             string choice = Console.ReadLine();
 
             switch (choice)
